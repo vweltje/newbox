@@ -29,6 +29,7 @@ const plugins = [
 ]
 
 const themes = [
+  { name: 'WP Flex Kit', value: 'https://github.com/thriveweb/wp-flex-kit/archive/master.zip'},
   { name: 'Flex With Benefits', value: 'https://github.com/Jinksi/flex-with-benefits/archive/master.zip'},
   { name: 'Flex With Benefits - Babelify', value: 'https://github.com/Jinksi/flex-with-benefits/archive/babelify.zip'},
 ]
